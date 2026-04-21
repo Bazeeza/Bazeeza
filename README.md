@@ -1,27 +1,29 @@
-<h3>Outils</h3>
-<p align="left">
-  <a href="https://amazon.com"><img src="https://amplify.aws" alt="amplify" width="40" height="40"/></a>
-  <a href="https://amazon.com"><img src="https://githubusercontent.com" alt="aws" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com"><img src="https://githubusercontent.com" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://w3schools.com"><img src="https://githubusercontent.com" alt="css3" width="40" height="40"/></a>
-  <a href="https://docker.com"><img src="https://githubusercontent.com" alt="docker" width="40" height="40"/></a>
-  <a href="https://expressjs.com"><img src="https://githubusercontent.com" alt="express" width="40" height="40"/></a>
-  <a href="https://figma.com"><img src="https://vectorlogo.zone" alt="figma" width="40" height="40"/></a>
-  <a href="https://google.com"><img src="https://vectorlogo.zone" alt="firebase" width="40" height="40"/></a>
-  <a href="https://golang.org"><img src="https://githubusercontent.com" alt="go" width="40" height="40"/></a>
-  <a href="https://graphql.org"><img src="https://vectorlogo.zone" alt="graphql" width="40" height="40"/></a>
-  <a href="https://w3.org"><img src="https://githubusercontent.com" alt="html5" width="40" height="40"/></a>
-  <a href="https://mozilla.org"><img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/></a>
-  <a href="https://jestjs.io"><img src="https://vectorlogo.zone" alt="jest" width="40" height="40"/></a>
-  <a href="https://mongodb.com"><img src="https://githubusercontent.com" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://nextjs.org"><img src="https://worldvectorlogo.com" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://nodejs.org"><img src="https://githubusercontent.com" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://postgresql.org"><img src="https://githubusercontent.com" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://python.org"><img src="https://githubusercontent.com" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org"><img src="https://githubusercontent.com" alt="react" width="40" height="40"/></a>
-  <a href="https://reactnative.dev"><img src="https://reactnative.devimg/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://js.org"><img src="https://githubusercontent.com" alt="redux" width="40" height="40"/></a>
-  <a href="https://svelte.dev"><img src="https://wikimedia.org" alt="svelte" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com"><img src="https://vectorlogo.zone" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://typescriptlang.org"><img src="https://githubusercontent.com" alt="typescript" width="40" height="40"/></a>
-</p>
+<h3> Outils </h3>
+  <p>
+    <a href="https://aws.amazon.com/amplify/"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/></a>
+    <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+    <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+    <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+    <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+    <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+    <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+    <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+    <a href="https://golang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></a>
+    <a href="https://graphql.org"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
+    <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+    <br>
+    <a href="https://jestjs.io"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
+    <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+    <a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+    <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+    <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+    <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+    <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+    <a href="https://reactnative.dev/"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+    <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
+    <a href="https://svelte.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/></a>
+    <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  </p>
+</div>
