@@ -29,13 +29,13 @@ Freelance avec une spécialisation en **sécurité informatique**, je conçois e
 ## Contact
 
 <p align="left">
-  <a href="https://linkedin.com/in/TON_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/xxxx" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:ton-email@exemple.com">
+  <a href="-----@-----">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://TON_PORTFOLIO.com" target="_blank">
+  <a href="https://Azeez.local" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
