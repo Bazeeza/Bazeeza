@@ -38,7 +38,6 @@ Freelance avec une spécialisation en **sécurité informatique**, je conçois e
   </a>
 </p>
 
-
 ---
 <p align="center">
   <i>« Security is not a product, but a process. » — Bruce Schneier</i>
