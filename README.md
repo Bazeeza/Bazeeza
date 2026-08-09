@@ -8,7 +8,7 @@
 
 ## À propos
 
-Étudiant en **Techniques de l'informatique (Réseautique)**, avec une expérience concrète en **téléphonie IP**, en **réseaux Cisco** et en environnement de **centre de données**. Je documente chaque projet sous forme de **runbooks** reproductibles.
+Étudiant en **Techniques de l'informatique (Réseautique)**, avec une expérience en **téléphonie IP**, en **réseaux Cisco** et en environnement de **centre de données**. Je documente chaque projet sous forme de **runbooks** reproductibles.
 
 - **Téléphonie IP** : montage de serveurs FreePBX sur Proxmox, interconnexion de réseaux distants
 - **Réseautique** : configuration de routeurs et commutateurs Cisco, VLAN, DHCP, NAT, supervision SNMP
