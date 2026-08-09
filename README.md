@@ -1,6 +1,6 @@
 <h1 align="center">Azeez</h1>
 <p align="center">
-  <b>Technicien en télécommunication &amp; réseautique</b><br>
+  <b>Télécommunication &amp; réseautique</b><br>
   Montréal, QC · FR · EN
 </p>
 
