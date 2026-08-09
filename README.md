@@ -1,4 +1,4 @@
-<h1 align="center">Abdul-Bariu Azeez</h1>
+<h1 align="center">Azeez</h1>
 <p align="center">
   <b>Technicien en télécommunication &amp; réseautique</b><br>
   Montréal, QC · FR · EN
