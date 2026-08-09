@@ -1,4 +1,4 @@
-<h1 align="center">bazeeza</h1>
+<h1 align="center">Bazeeza</h1>
 <p align="center">
   <b>Technicien en télécommunication &amp; réseautique</b><br>
   Montréal, QC · FR · EN
