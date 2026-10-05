@@ -52,7 +52,7 @@
 ## Contact
 
 <p align="left">
-  <a href="mailto:Barriuazeez@gmail.com">
+  <a href="mailto:Azeez@bazeeza.ca">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://bazeeza.github.io" target="_blank">
