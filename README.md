@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://bazeeza.github.io"><img src="https://img.shields.io/badge/Portfolio-bazeeza.github.io-3fe0a0?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:Azeez@bazeeza.ca"><img src="https://img.shields.io/badge/Courriel-Azeez%40bazeeza.ca-2b9dff?style=flat-square" alt="Courriel"/></a>
-  <img src="https://img.shields.io/badge/Permis-Classe%205%20%2B%206A-ffb454?style=flat-square" alt="Permis Classe 5 + 6A"/>
 </p>
 
 ---
