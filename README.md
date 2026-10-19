@@ -14,17 +14,15 @@
 
 ## À propos
 
-Diplômé du **DEC en Techniques de l'informatique (Réseautique)** du Collège de Rosemont, je poursuis en **génie des technologies de l'information à l'ÉTS**. J'ai une expérience concrète en **téléphonie IP**, en **réseaux Cisco** et en **centre de données** (opérations 24/7 depuis 2023).
-
 Ce qui m'intéresse, c'est comprendre comment les choses sont connectées, du câblage d'un routeur jusqu'au serveur téléphonique qui relie deux sites distants. Je documente chaque installation sous forme de **runbook** : une installation qu'on ne peut pas reproduire n'est faite qu'à moitié.
 
 | | |
 |---|---|
-| 📞 **Téléphonie IP** | Serveurs FreePBX sur Proxmox, plan de numérotation, SIP, interconnexion de sites |
-| 🌐 **Réseautique** | Routeurs et commutateurs Cisco, VLAN 802.1Q, DHCP avec relais, NAT |
-| 📈 **Supervision** | SNMP, Zabbix (seuils et alertes), AWS CloudWatch |
-| ☁️ **Infrastructure** | AWS, Terraform, Docker, Windows Server, Ubuntu |
-| 🛠️ **Terrain** | Installation d'équipements, service client, santé-sécurité, habilitation de sécurité fédérale |
+| **Téléphonie IP** | Serveurs FreePBX sur Proxmox, plan de numérotation, SIP, interconnexion de sites |
+| **Réseautique** | Routeurs et commutateurs Cisco, VLAN 802.1Q, DHCP avec relais, NAT |
+| **Supervision** | SNMP, Zabbix (seuils et alertes), AWS CloudWatch |
+| **Infrastructure** | AWS, Terraform, Docker, Windows Server, Ubuntu |
+| **Terrain** | Installation d'équipements, service client, santé-sécurité, habilitation de sécurité fédérale |
 
 ---
 
