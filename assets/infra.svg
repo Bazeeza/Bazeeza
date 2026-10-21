@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" width="1200" height="440" role="img" aria-label="Schéma de l'infrastructure : un poste d'administration relié par un réseau maillé Tailscale à deux serveurs, un nœud critique au Canada (gestion à distance, supervision) et un nœud en Finlande (automatisation, veille croisée), ainsi qu'un bot Telegram de supervision en lecture seule">
+  <defs>
+    <style>
+      .t { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .m { font-family: Consolas, 'SFMono-Regular', Menlo, monospace; }
+      .boite { fill: #0b1530; stroke-width: 2; }
+      .titre { font-size: 17px; font-weight: 700; fill: #ffffff; }
+      .item { font-size: 13.5px; fill: #b8c6e3; }
+      .note { font-size: 12px; fill: #8fa3c8; }
+      .fil { fill: none; stroke-width: 2; }
+    </style>
+    <marker id="fleche" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#5b7bb5"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="440" rx="18" fill="#070d1c"/>
+
+  <!-- Réseau maillé -->
+  <rect x="24" y="24" width="790" height="392" rx="16" fill="none" stroke="#3fe0a0" stroke-opacity=".5" stroke-width="1.5" stroke-dasharray="7 7"/>
+  <text x="44" y="50" class="m" font-size="13" fill="#3fe0a0">réseau privé maillé · Tailscale (WireGuard) · aucun port d'administration public</text>
+
+  <!-- Liens -->
+  <path id="pa" class="fil" stroke="#2b9dff" d="M262 220 C 320 220, 320 140, 400 140" marker-end="url(#fleche)"/>
+  <path id="pb" class="fil" stroke="#2b9dff" d="M262 240 C 320 240, 320 320, 400 320" marker-end="url(#fleche)"/>
+  <path id="pv" class="fil" stroke="#ffb454" d="M600 262 L600 208" marker-end="url(#fleche)"/>
+  <path id="pt" class="fil" stroke="#c792ea" d="M960 320 L802 320" marker-end="url(#fleche)"/>
+
+  <circle r="4" fill="#2b9dff"><animateMotion dur="2.2s" repeatCount="indefinite"><mpath href="#pa"/></animateMotion></circle>
+  <circle r="4" fill="#2b9dff"><animateMotion dur="2.2s" begin="1.1s" repeatCount="indefinite"><mpath href="#pb"/></animateMotion></circle>
+  <circle r="4" fill="#ffb454"><animateMotion dur="1.4s" repeatCount="indefinite"><mpath href="#pv"/></animateMotion></circle>
+  <circle r="4" fill="#c792ea"><animateMotion dur="2s" repeatCount="indefinite"><mpath href="#pt"/></animateMotion></circle>
+
+  <text x="270" y="176" class="m note">SSH par clé</text>
+  <text x="612" y="242" class="m note" fill="#ffb454">veille croisée · 2 min</text>
+  <text x="826" y="306" class="m note" fill="#c792ea">long polling sortant</text>
+  <text x="826" y="342" class="m note" fill="#c792ea">0 port entrant</text>
+
+  <!-- Poste d'administration -->
+  <rect x="44" y="170" width="218" height="120" rx="12" class="boite" stroke="#5b7bb5"/>
+  <text x="62" y="200" class="t titre">Poste d'administration</text>
+  <text x="62" y="226" class="t item">Windows 11 · PowerShell</text>
+  <text x="62" y="248" class="t item">accès par clé, sans mot</text>
+  <text x="62" y="268" class="t item">de passe</text>
+
+  <!-- Noeud A -->
+  <rect x="400" y="70" width="400" height="138" rx="12" class="boite" stroke="#2b9dff"/>
+  <circle cx="776" cy="92" r="6" fill="#3fe0a0"><animate attributeName="opacity" values="1;.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="420" y="100" class="t titre">Nœud A · Canada <tspan fill="#ff7a7a" font-size="13">(critique)</tspan></text>
+  <text x="420" y="128" class="t item">▸ Gestion à distance des postes (MeshCentral)</text>
+  <text x="420" y="150" class="t item">▸ Supervision : Uptime Kuma (9 sondes), Beszel</text>
+  <text x="420" y="172" class="t item">▸ Base MongoDB écoutant en local seulement</text>
+  <text x="420" y="194" class="t item">▸ Sites publiés par tunnel Cloudflare</text>
+
+  <!-- Noeud B -->
+  <rect x="400" y="262" width="400" height="138" rx="12" class="boite" stroke="#2b9dff"/>
+  <circle cx="776" cy="284" r="6" fill="#3fe0a0"><animate attributeName="opacity" values="1;.3;1" dur="1.6s" begin=".8s" repeatCount="indefinite"/></circle>
+  <text x="420" y="292" class="t titre">Nœud B · Finlande</text>
+  <text x="420" y="320" class="t item">▸ Automatisation n8n (Docker, 127.0.0.1)</text>
+  <text x="420" y="342" class="t item">▸ Surveille le nœud A, alerte après 3 échecs</text>
+  <text x="420" y="364" class="t item">▸ fail2ban + ufw · nœud de sortie VPN</text>
+  <text x="420" y="386" class="t item">▸ Sauvegardes quotidiennes, 7 jours</text>
+
+  <!-- Bot -->
+  <rect x="960" y="250" width="216" height="150" rx="12" class="boite" stroke="#c792ea"/>
+  <text x="978" y="280" class="t titre">Bot Telegram</text>
+  <text x="978" y="306" class="m item" fill="#c792ea">/etat</text>
+  <text x="978" y="330" class="t item">état des services</text>
+  <text x="978" y="352" class="t item">service systemd durci</text>
+  <text x="978" y="374" class="t item">1 seul utilisateur autorisé</text>
+
+  <!-- Légende principe -->
+  <text x="960" y="90" class="t titre" font-size="15">Principes appliqués</text>
+  <text x="960" y="118" class="t item">• moindre privilège</text>
+  <text x="960" y="140" class="t item">• cloisonnement des rôles</text>
+  <text x="960" y="162" class="t item">• sauvegarde avant changement</text>
+  <text x="960" y="184" class="t item">• plan de retour en arrière</text>
+</svg>
