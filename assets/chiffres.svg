@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="2 serveurs en production sur 2 continents ; plus de 284 000 tentatives d'intrusion bloquées, 0 réussie ; 1 450 lignes de scripts de durcissement CIS ; plus de 50 procédures documentées">
+  <defs>
+    <style>
+      .t { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .n { font-size: 42px; font-weight: 700; }
+      .l { font-size: 15px; fill: #b8c6e3; }
+      .s { font-size: 13px; fill: #7c8db0; }
+      .tuile { fill: #0b1530; stroke: #1e335e; stroke-width: 1.5; }
+    </style>
+  </defs>
+  <g class="t">
+    <g>
+      <rect x="4" y="4" width="282" height="142" rx="14" class="tuile"/>
+      <rect x="4" y="4" width="282" height="4" rx="2" fill="#3fe0a0"/>
+      <text x="28" y="66" class="n" fill="#3fe0a0">2</text>
+      <text x="28" y="98" class="l">serveurs Linux en production</text>
+      <text x="28" y="122" class="s">Canada + Finlande, supervisés 24/7</text>
+    </g>
+    <g>
+      <rect x="306" y="4" width="282" height="142" rx="14" class="tuile"/>
+      <rect x="306" y="4" width="282" height="4" rx="2" fill="#2b9dff"/>
+      <text x="330" y="66" class="n" fill="#2b9dff">284 000+</text>
+      <text x="330" y="98" class="l">tentatives d'intrusion bloquées</text>
+      <text x="330" y="122" class="s">fail2ban + ufw · 0 intrusion réussie</text>
+    </g>
+    <g>
+      <rect x="608" y="4" width="282" height="142" rx="14" class="tuile"/>
+      <rect x="608" y="4" width="282" height="4" rx="2" fill="#ffb454"/>
+      <text x="632" y="66" class="n" fill="#ffb454">1 450</text>
+      <text x="632" y="98" class="l">lignes de scripts de sécurité</text>
+      <text x="632" y="122" class="s">durcissement CIS · Bash, PowerShell</text>
+    </g>
+    <g>
+      <rect x="910" y="4" width="286" height="142" rx="14" class="tuile"/>
+      <rect x="910" y="4" width="286" height="4" rx="2" fill="#c792ea"/>
+      <text x="934" y="66" class="n" fill="#c792ea">50+</text>
+      <text x="934" y="98" class="l">procédures techniques rédigées</text>
+      <text x="934" y="122" class="s">reproductibles par un autre technicien</text>
+    </g>
+  </g>
+</svg>
