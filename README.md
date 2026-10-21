@@ -41,10 +41,6 @@ Deux serveurs Linux (Canada et Finlande) que j'administre seul, reliés par un *
 
 Si le lien principal tombe, le trafic bascule **automatiquement** par un routeur de secours, sans protocole de routage dynamique : des **routes statiques flottantes** (distance administrative 1 contre 5). Inclut le routage inter-VLAN, le router-on-a-stick et un VLAN « trou noir » pour les ports inutilisés.
 
-<p align="center">
-  <img src="assets/topologie-cisco.png" width="85%" alt="Topologie Cisco : deux bâtiments reliés directement et par un routeur de secours en triangle"/>
-</p>
-
 `Cisco IOS` `VLAN 802.1Q` `Routage statique` `Distance administrative` `Commutateur L3` · [**Voir la documentation**](https://github.com/Bazeeza/Projets-Runbooks/tree/main/420-H66-RO%20PROJETS-R%C3%89SEAUTIQUE-2/Route-ST)
 
 ### 3 · Durcissement automatisé selon le CIS Benchmark
