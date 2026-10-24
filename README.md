@@ -59,7 +59,7 @@ Réseau Cisco physique (VLAN, DHCP avec relais, NAT) supervisé par **SNMP** et 
 
 Infrastructure décrite en code : VPC, instances EC2 et conteneurs Docker pour le gestionnaire de mots de passe Vaultwarden et la messagerie Mattermost. En équipe, j'ai aussi déployé GLPI, Nextcloud et RDS MySQL, supervisés avec CloudWatch.
 
-`Terraform` `AWS EC2 / VPC / RDS` `CloudWatch` `Docker` · [**AutomationHub**](https://github.com/Bazeeza/AutomationHub) · [**Services Internet**](https://github.com/Bazeeza/Projets-Runbooks/tree/main/420-H66-RO%20POJET-SRV-INTERNET-3)
+`Terraform` `AWS EC2 / VPC / RDS` `CloudWatch` `Docker` · [**AutomationHub**](https://github.com/Bazeeza/AutomationHub) · [**Services Internet**](https://github.com/Bazeeza/Projets-Runbooks/tree/main/420-H66-RO%20PROJET-SRV-INTERNET-3)
 
 ---
 
