@@ -35,3 +35,50 @@ Tout ce que j'apprends finit en procédure écrite, pour que n'importe qui puiss
 - **Le port le plus sûr est celui qu'on n'ouvre pas.** Le bot `/etat` fonctionne en connexion sortante seulement : aucun port entrant.
 - **On prévoit le retour en arrière avant d'appliquer le changement.** Sauvegarde d'abord, toujours.
 
+---
+
+## 🔧 Sur l'établi
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Un réseau qui se répare tout seul
+Deux bâtiments, un lien principal, un routeur de secours. Si le lien tombe, le trafic bascule **automatiquement** grâce à des routes statiques flottantes (distance administrative 1 contre 5), sans aucun protocole de routage dynamique.
+
+`Cisco IOS` `VLAN 802.1Q` `inter-VLAN`<br>
+→ [**La doc**](https://github.com/Bazeeza/Projets-Runbooks/tree/main/420-H66-RO%20PROJETS-R%C3%89SEAUTIQUE-2/Route-ST)
+
+</td>
+<td width="50%" valign="top">
+
+### Durcir un poste en une commande
+Deux scripts qui lisent le CIS Benchmark en XML, **vérifient** la config d'un poste, puis la **corrigent** : Ubuntu 24.04 en Bash, Windows 11 en PowerShell. Un mode lecture seule sort un rapport sans rien toucher.
+
+`Bash` `PowerShell` `CIS` `XML`<br>
+→ [**Les scripts**](https://github.com/Bazeeza/Projets-Runbooks/tree/main/420-H34-RO%20UTILITAIRES-R%C3%89SEAUX-AVANC%C3%89S/TP2_CIS)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Superviser du vrai matériel
+Un réseau Cisco physique (VLAN, relais DHCP, NAT) surveillé par **SNMP** et **Zabbix** : serveur AlmaLinux, agents Linux et Windows, seuils *warning* et *critical* choisis et justifiés.
+
+`Zabbix` `SNMP v2c` `AlmaLinux`<br>
+→ [**Les procédures**](https://github.com/Bazeeza/Projets-Runbooks/tree/main/420-H63-RO%20SUPERVISION-R%C3%89SEAUX-LOCAUX)
+
+</td>
+<td width="50%" valign="top">
+
+### Une infra AWS écrite en code
+VPC, instances EC2 et conteneurs décrits avec **Terraform** pour héberger Vaultwarden et Mattermost. En équipe : GLPI, Nextcloud et RDS MySQL, surveillés avec CloudWatch.
+
+`Terraform` `AWS` `Docker`<br>
+→ [**AutomationHub**](https://github.com/Bazeeza/AutomationHub) · [**Services Internet**](https://github.com/Bazeeza/Projets-Runbooks/tree/main/420-H66-RO%20PROJET-SRV-INTERNET-3)
+
+</td>
+</tr>
+</table>
+
