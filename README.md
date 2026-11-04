@@ -116,3 +116,13 @@ Short IT runbooks: boot & UEFI, Windows 11, software, networking, Active Directo
   <code>Zabbix</code> <code>SNMP</code> <code>Uptime Kuma</code> <code>fail2ban · ufw</code> <code>Proxmox</code> <code>n8n</code> <code>systemd</code>
 </p>
 
+---
+
+<p align="center">
+  Une question sur un projet, une idée de lab, ou juste envie de parler réseau ?<br>
+  <a href="mailto:info@bazeeza.ca"><b>info@bazeeza.ca</b></a>
+</p>
+
+<p align="center">
+  <img src="assets/pied.svg" width="100%" alt="bazeeza@lab:~$ exit · connexion fermée"/>
+</p>
