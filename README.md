@@ -103,3 +103,16 @@ Short IT runbooks: boot & UEFI, Windows 11, software, networking, Active Directo
 </tr>
 </table>
 
+---
+
+## 🧰 Boîte à outils
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,aws,terraform,bash,powershell,py,cloudflare,git&theme=dark" alt="Linux, Ubuntu, Windows, Docker, AWS, Terraform, Bash, PowerShell, Python, Cloudflare, Git"/>
+</p>
+
+<p align="center">
+  <code>Cisco IOS</code> <code>VLAN · OSPF · NAT · ACL</code> <code>FreePBX · SIP</code> <code>Wireshark</code> <code>WireGuard · Tailscale</code><br>
+  <code>Zabbix</code> <code>SNMP</code> <code>Uptime Kuma</code> <code>fail2ban · ufw</code> <code>Proxmox</code> <code>n8n</code> <code>systemd</code>
+</p>
+
