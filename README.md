@@ -4,21 +4,15 @@
 
 <p align="center">
   <a href="mailto:info@bazeeza.ca"><img src="https://img.shields.io/badge/info%40bazeeza.ca-0b1530?style=for-the-badge&logo=maildotru&logoColor=3fe0a0" alt="info@bazeeza.ca"/></a>
-  <img src="https://img.shields.io/badge/Montréal-0b1530?style=for-the-badge&logo=googlemaps&logoColor=2b9dff" alt="Montréal"/>
-  <img src="https://img.shields.io/badge/FR%20·%20EN-0b1530?style=for-the-badge&logo=googletranslate&logoColor=c792ea" alt="Français et anglais"/>
 </p>
 
-### Salut, moi c'est bazeeza
+Réseaux, téléphonie IP, supervision et homelab. J'aime comprendre comment un paquet passe d'un point A à un point B, et surtout ce qui se passe quand il n'y arrive pas.
 
-J'aime comprendre comment un paquet passe d'un point A à un point B, et surtout ce qui se passe quand il n'y arrive pas.
-
-Le jour, je travaille dans un centre de données. Le reste du temps, je finis mon DEC en réseautique et je bricole mon propre lab : deux serveurs sur deux continents, un réseau maillé, de la supervision partout et un bot qui me prévient quand quelque chose tombe.
-
-Tout ce que j'apprends finit en procédure écrite, pour que n'importe qui puisse le refaire.
+Tout ce que je monte finit en procédure écrite, pour que n'importe qui puisse le refaire.
 
 ---
 
-## 🧪 Le lab
+## Le lab
 
 <p align="center">
   <img src="assets/infra.svg" width="100%" alt="Schéma : poste d'administration, nœud A au Canada (gestion à distance, supervision), nœud B en Finlande (automatisation, veille croisée), bot Telegram en lecture seule"/>
@@ -37,7 +31,7 @@ Tout ce que j'apprends finit en procédure écrite, pour que n'importe qui puiss
 
 ---
 
-## 🔧 Sur l'établi
+## Sur l'établi
 
 <table>
 <tr>
@@ -84,19 +78,19 @@ VPC, instances EC2 et conteneurs décrits avec **Terraform** pour héberger Vaul
 
 ---
 
-## 📓 Mes carnets
+## Mes carnets
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[Projets-Runbooks](https://github.com/Bazeeza/Projets-Runbooks)** 🇫🇷<br>
+**[Projets-Runbooks](https://github.com/Bazeeza/Projets-Runbooks)** (FR)<br>
 Mes projets de réseautique, pas à pas : Cisco, Zabbix, AWS, GLPI, CIS, MeshCentral.
 
 </td>
 <td width="50%" valign="top">
 
-**[Technical-Runbooks](https://github.com/Bazeeza/Technical-Runbooks)** 🇬🇧<br>
+**[Technical-Runbooks](https://github.com/Bazeeza/Technical-Runbooks)** (EN)<br>
 Short IT runbooks: boot & UEFI, Windows 11, software, networking, Active Directory.
 
 </td>
@@ -105,7 +99,7 @@ Short IT runbooks: boot & UEFI, Windows 11, software, networking, Active Directo
 
 ---
 
-## 🧰 Boîte à outils
+## Boîte à outils
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,aws,terraform,bash,powershell,py,cloudflare,git&theme=dark" alt="Linux, Ubuntu, Windows, Docker, AWS, Terraform, Bash, PowerShell, Python, Cloudflare, Git"/>
