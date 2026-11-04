@@ -82,3 +82,24 @@ VPC, instances EC2 et conteneurs décrits avec **Terraform** pour héberger Vaul
 </tr>
 </table>
 
+---
+
+## 📓 Mes carnets
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Projets-Runbooks](https://github.com/Bazeeza/Projets-Runbooks)** 🇫🇷<br>
+Mes projets de réseautique, pas à pas : Cisco, Zabbix, AWS, GLPI, CIS, MeshCentral.
+
+</td>
+<td width="50%" valign="top">
+
+**[Technical-Runbooks](https://github.com/Bazeeza/Technical-Runbooks)** 🇬🇧<br>
+Short IT runbooks: boot & UEFI, Windows 11, software, networking, Active Directory.
+
+</td>
+</tr>
+</table>
+
