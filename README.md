@@ -8,17 +8,46 @@
 
 ---
 
-## Projet
+## Projets
 
 <table>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
 ### TryHackMe Badge Finder
-Sur TryHackMe, on ne peut pas cliquer sur un badge pour savoir quelle salle le donne. Ce site fait le lien : **les 138 badges**, chacun avec la salle, le module ou le parcours qui le débloque. Site statique, avec recherche et vérification automatique des liens.
+Sur TryHackMe, on ne peut pas cliquer sur un badge pour savoir quelle salle le donne. Ce site fait le lien : **les 138 badges**, chacun avec la salle, le module ou le parcours qui le débloque.
 
-`HTML` `JavaScript` `Python` `GitHub Actions` `GitHub Pages`<br>
+`HTML` `JavaScript` `Python` `GitHub Actions`<br>
 → [**Le site**](https://bazeeza.github.io/thm-badge-finder/) · [**Le code**](https://github.com/Bazeeza/thm-badge-finder)
+
+</td>
+<td width="50%" valign="top">
+
+### Helpdesk Toolkit
+Un module PowerShell qui transforme les premières minutes d'un billet de soutien en vérifications répétables : rapport système, réseau, logiciels installés, santé du disque, rapport HTML pour le billet. **Lecture seule**, testé avec Pester.
+
+`PowerShell 5.1` `Pester` `PSScriptAnalyzer`<br>
+→ [**Le code**](https://github.com/Bazeeza/helpdesk-toolkit)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Technical Runbooks
+Des procédures TI pas à pas, écrites pour être suivies sous pression : démarrage et UEFI, installation de Windows 11, déploiement de logiciels, dépannage réseau, Active Directory, imprimantes, assistance à distance… En anglais, sur un gabarit unique.
+
+`Windows` `Active Directory` `Réseau` `PowerShell`<br>
+→ [**Les procédures**](https://github.com/Bazeeza/Technical-Runbooks)
+
+</td>
+<td width="50%" valign="top">
+
+### AutomationHub
+Un seul `terraform apply` construit un petit réseau AWS (VPC, sous-réseau, groupe de sécurité) et déploie le gestionnaire de mots de passe Vaultwarden dans Docker sur une instance EC2 durcie. Projet d'équipe.
+
+`Terraform` `AWS` `Docker`<br>
+→ [**Le code**](https://github.com/Bazeeza/AutomationHub)
 
 </td>
 </tr>
