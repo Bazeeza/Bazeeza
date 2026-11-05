@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="Fin de session : bazeeza@lab exit, connexion fermée">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="Fin de session : bazeeza@github exit, connexion fermée">
   <defs>
     <style>
       .m { font-family: Consolas, 'SFMono-Regular', Menlo, monospace; }
@@ -9,5 +9,5 @@
     </style>
   </defs>
   <path class="onde" d="M0 20 Q 25 10 50 20 T 100 20 T 150 20 T 200 20 T 250 20 T 300 20 T 350 20 T 400 20 T 450 20 T 500 20 T 550 20 T 600 20 T 650 20 T 700 20 T 750 20 T 800 20 T 850 20 T 900 20 T 950 20 T 1000 20 T 1050 20 T 1100 20 T 1150 20 T 1200 20" fill="none" stroke="#2b9dff" stroke-opacity=".5" stroke-width="2"/>
-  <text x="600" y="66" text-anchor="middle" class="m" font-size="16" fill="#6b7fa6"><tspan fill="#2fbf86">bazeeza@lab</tspan>:~$ exit  <tspan fill="#5f7299">· connexion fermée, merci de la visite</tspan></text>
+  <text x="600" y="66" text-anchor="middle" class="m" font-size="16" fill="#6b7fa6"><tspan fill="#2fbf86">bazeeza@github</tspan>:~$ exit  <tspan fill="#5f7299">· connexion fermée, merci de la visite</tspan></text>
 </svg>

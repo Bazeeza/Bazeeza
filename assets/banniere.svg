@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="Terminal : whoami répond bazeeza ; ses intérêts : réseaux, téléphonie IP, supervision et homelab. À droite, une petite topologie réseau animée.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="Terminal : whoami répond bazeeza ; ses intérêts : réseaux, téléphonie IP, supervision et sécurité. À droite, une petite topologie réseau animée.">
   <defs>
     <linearGradient id="fond" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#060b17"/>
@@ -44,16 +44,16 @@
   <circle cx="58" cy="47" r="6" fill="#ff6b6b"/>
   <circle cx="80" cy="47" r="6" fill="#ffb454"/>
   <circle cx="102" cy="47" r="6" fill="#3fe0a0"/>
-  <text x="366" y="52" text-anchor="middle" class="m" font-size="13" fill="#5f7299">bazeeza@lab: ~</text>
+  <text x="366" y="52" text-anchor="middle" class="m" font-size="13" fill="#5f7299">bazeeza@github: ~</text>
 
   <g class="m" font-size="17">
-    <text x="60" y="100" class="ligne l1"><tspan class="p">bazeeza@lab</tspan><tspan class="o">:~$ </tspan><tspan class="c">whoami</tspan></text>
+    <text x="60" y="100" class="ligne l1"><tspan class="p">bazeeza@github</tspan><tspan class="o">:~$ </tspan><tspan class="c">whoami</tspan></text>
     <text x="60" y="152" class="t ligne l2" font-size="50" font-weight="700" fill="url(#nom)">bazeeza</text>
-    <text x="60" y="196" class="ligne l3"><tspan class="p">bazeeza@lab</tspan><tspan class="o">:~$ </tspan><tspan class="c">cat interets.txt</tspan></text>
-    <text x="60" y="226" class="ligne l4" fill="#b8c6e3">réseaux · téléphonie IP · supervision · homelab</text>
-    <text x="60" y="270" class="ligne l5"><tspan class="p">bazeeza@lab</tspan><tspan class="o">:~$ </tspan></text>
+    <text x="60" y="196" class="ligne l3"><tspan class="p">bazeeza@github</tspan><tspan class="o">:~$ </tspan><tspan class="c">cat interets.txt</tspan></text>
+    <text x="60" y="226" class="ligne l4" fill="#b8c6e3">réseaux · téléphonie IP · supervision · sécurité</text>
+    <text x="60" y="270" class="ligne l5"><tspan class="p">bazeeza@github</tspan><tspan class="o">:~$ </tspan></text>
   </g>
-  <rect x="222" y="256" width="10" height="18" fill="#3fe0a0" class="curseur"/>
+  <rect x="252" y="256" width="10" height="18" fill="#3fe0a0" class="curseur"/>
 
   <!-- Topologie animée -->
   <path id="l1" class="lien" d="M842 96 L975 172"/>
