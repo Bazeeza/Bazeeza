@@ -6,10 +6,6 @@
   <a href="mailto:info@bazeeza.ca"><img src="https://img.shields.io/badge/info%40bazeeza.ca-0b1530?style=for-the-badge&logo=maildotru&logoColor=3fe0a0" alt="info@bazeeza.ca"/></a>
 </p>
 
-Réseaux, téléphonie IP, supervision et sécurité. J'aime comprendre comment un paquet passe d'un point A à un point B, et surtout ce qui se passe quand il n'y arrive pas.
-
-Ce que je construis, je le documente, pour que n'importe qui puisse le refaire.
-
 ---
 
 ## Projet
