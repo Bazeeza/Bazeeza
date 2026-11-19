@@ -24,7 +24,7 @@ Sur TryHackMe, on ne peut pas cliquer sur un badge pour savoir quelle salle le d
 <td width="50%" valign="top">
 
 ### Helpdesk Toolkit
-Un module PowerShell qui transforme les premières minutes d'un billet de soutien en vérifications répétables : rapport système, réseau, logiciels installés, santé du disque, rapport HTML pour le billet. **Lecture seule**, testé avec Pester.
+Un module PowerShell qui transforme les premières minutes d'un billet de soutien en vérifications répétables : rapport système, réseau, logiciels installés, santé du disque, rapport HTML pour le billet. **Lecture seule**, sauf le nettoyage des fichiers temporaires, qui montre d'abord ce qu'il ferait (`-WhatIf`) et demande confirmation. Testé avec Pester.
 
 `PowerShell 5.1` `Pester` `PSScriptAnalyzer`<br>
 → [**Le code**](https://github.com/Bazeeza/helpdesk-toolkit)
@@ -35,9 +35,9 @@ Un module PowerShell qui transforme les premières minutes d'un billet de soutie
 <td width="50%" valign="top">
 
 ### Technical Runbooks
-Des procédures TI pas à pas, écrites pour être suivies sous pression : démarrage et UEFI, installation de Windows 11, déploiement de logiciels, dépannage réseau, Active Directory, imprimantes, assistance à distance… En anglais, sur un gabarit unique.
+**15 procédures TI** pas à pas, écrites pour être suivies sous pression : démarrage et UEFI, Windows 11, Active Directory, dépannage réseau, câblage et sertissage, Wi-Fi, téléphonie IP (SIP), configuration de base d'un commutateur Cisco, durcissement Linux, sauvegarde et restauration, hameçonnage, Microsoft 365. En anglais, sur un gabarit unique.
 
-`Windows` `Active Directory` `Réseau` `PowerShell`<br>
+`Windows` `Active Directory` `Cisco IOS` `VoIP` `Linux`<br>
 → [**Les procédures**](https://github.com/Bazeeza/Technical-Runbooks)
 
 </td>
