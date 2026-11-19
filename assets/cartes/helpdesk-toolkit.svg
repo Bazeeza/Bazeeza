@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 250" width="560" height="250" role="img" aria-label="Carte du projet Helpdesk Toolkit : module PowerShell de 6 commandes de diagnostic pour le soutien TI, version 1.0.0, compatible Windows PowerShell 5.1, testé avec Pester.">
+  <defs>
+    <linearGradient id="fond" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070d1c"/>
+      <stop offset="1" stop-color="#0c1830"/>
+    </linearGradient>
+    <pattern id="grille" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#5b7bb5" fill-opacity=".14"/>
+    </pattern>
+    <style>
+      .t { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .m { font-family: Consolas, 'SFMono-Regular', Menlo, monospace; }
+      .puce { fill: #0f1d3a; stroke: #1d3157; }
+      .chiffre { fill: #2b9dff; font-weight: 700; }
+      .unite { fill: #9fb0d0; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="558" height="248" rx="14" fill="url(#fond)" stroke="#1d3157" stroke-width="1.5"/>
+  <rect x="1" y="1" width="558" height="248" rx="14" fill="url(#grille)"/>
+  <rect x="1" y="1" width="6" height="248" rx="3" fill="#2b9dff"/>
+
+  <text x="32" y="40" class="m" font-size="13" fill="#2b9dff">PS&gt; Import-Module HelpdeskToolkit</text>
+  <text x="32" y="76" class="t" font-size="27" font-weight="700" fill="#ffffff">Helpdesk Toolkit</text>
+  <text x="32" y="108" class="t" font-size="15" fill="#b8c6e3">Les premières minutes d'un billet de soutien,</text>
+  <text x="32" y="130" class="t" font-size="15" fill="#b8c6e3">en vérifications répétables et rapport HTML.</text>
+
+  <g class="m" font-size="14">
+    <rect x="32" y="152" width="150" height="34" rx="8" class="puce"/>
+    <text x="46" y="174"><tspan class="chiffre">6</tspan><tspan class="unite"> commandes</tspan></text>
+    <rect x="194" y="152" width="150" height="34" rx="8" class="puce"/>
+    <text x="208" y="174"><tspan class="chiffre">v1.0.0</tspan><tspan class="unite"> publiée</tspan></text>
+    <rect x="356" y="152" width="172" height="34" rx="8" class="puce"/>
+    <text x="370" y="174"><tspan class="chiffre">PS 5.1</tspan><tspan class="unite"> et PS 7</tspan></text>
+  </g>
+
+  <text x="32" y="222" class="m" font-size="13" fill="#6b7fa6">PowerShell · Pester · PSScriptAnalyzer</text>
+</svg>
